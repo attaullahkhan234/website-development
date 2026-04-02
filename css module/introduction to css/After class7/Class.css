@@ -1,0 +1,51 @@
+*{
+font-size: 30px;
+font-weight: 500;
+}
+
+h3{
+color: pink;
+}
+
+h4{
+color: rgb(121, 104, 70);
+}
+
+.myclass{
+color: rgba(185, 19, 136, 0.998);
+}
+
+#myid{
+color: rgb(131, 77, 240);
+}
+
+h5,p{
+color: rgb(49, 153, 165);
+}
+
+
+
+*{
+font-size: 30px;
+font-weight: 500;
+}
+
+h3{
+background-color: blue;
+}
+
+h4{
+background-color: palevioletred;
+}
+
+.myclass{
+background-color: darkorange;
+}
+
+#myid{
+background-color: mediumpurple;
+}
+
+h5,p{
+background-color: maroon;
+}
